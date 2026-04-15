@@ -3,7 +3,7 @@
   "displayName": "Header File Generator",
   "description": "Automatically generates C/C++ header files (.h) from source files (.c / .cpp)",
   "version": "1.0.0",
-  "publisher": "header-file-generator",
+  "publisher": "KairavDutta",
   "engines": {
     "vscode": "^1.80.0"
   },
